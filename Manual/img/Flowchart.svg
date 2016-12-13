@@ -1,0 +1,156 @@
+<?xml version="1.0" standalone="yes"?>
+
+<svg version="1.1" viewBox="18 18 422 592" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--	<rect x="0" y="0" width="460" height="610" stroke="#000" stroke-width="1" />  -->
+	<path d="
+		M 160 40
+		l 20 0 a 20 20 0 0 1 0 40 l -20 0
+		l -40 0 l 0 -40 l 40 0
+		M 340 40
+		l 20 0 l 20 20 l -20 20 l -20 0
+		l -20 0 a 20 20 0 0 1 0 -40 l 20 0
+		M 280 90
+		l 30 0 a 10 10 0 0 0 10 10 l 0 20 a 10 10 0 0 0 -10 10 l -30 0
+		l -20 0 l -20 -20 l 20 -20 l 20 0
+		M 100 130
+		l 20 0 a 20 20 0 0 1 0 40 l -20 0
+		l -20 0 a 20 20 0 0 1 0 -40 l 20 0
+		M 360 160
+		l 20 0 l 20 20 l -20 20 l -20 0
+		l -20 0 l -20 -20 l 20 -20 l 20 0
+		M 120 200
+		l 20 0 l 20 20 l -20 20 l -20 0
+		l -30 0 a 10 10 0 0 0 -10 -10 l 0 -20 a 10 10 0 0 0 10 -10 l 30 0
+		M 260 230
+		l 40 0 l 0 40 l -40 0
+		l -30 0 a 10 10 0 0 0 -10 -10 l 0 -20 a 10 10 0 0 0 10 -10 l 30 0
+		M 90 270
+		l 20 0 a 20 20 0 0 1 0 40 l -20 0
+		l -20 0 l -20 -20 l 20 -20 l 20 0
+		M 320 280
+		l 30 0 a 10 10 0 0 0 10 10 l 0 20 a 10 10 0 0 0 -10 10 l -30 0
+		l -30 0 a 10 10 0 0 0 -10 -10 l 0 -20 a 10 10 0 0 0 10 -10 l 30 0
+		M 200 330
+		l 30 0 a 10 10 0 0 0 10 10 l 0 20 a 10 10 0 0 0 -10 10 l -30 0
+		l -20 0 a 20 20 0 0 1 0 -40 l 20 0
+		M 360 350
+		l 40 0 l 0 40 l -40 0
+		l -40 0 l 0 -40 l 40 0
+		M 160 410
+		l 20 0 l 20 20 l -20 20 l -20 0
+		l -40 0 l 0 -40 l 40 0
+		M 340 440
+		l 30 0 a 10 10 0 0 0 10 10 l 0 20 a 10 10 0 0 0 -10 10 l -30 0
+		l -40 0 l 0 -40 l 40 0
+		M 100 490
+		l 40 0 l 0 40 l -40 0
+		l -20 0 a 20 20 0 0 1 0 -40 l 20 0
+		M 220 520
+		l 20 0 a 20 20 0 0 1 0 40 l -20 0
+		l -30 0 a 10 10 0 0 0 -10 -10 l 0 -20 a 10 10 0 0 0 10 -10 l 30 0
+		M 360 520
+		l 40 0 l 0 40 l -40 0
+		l -20 0 l -20 -20 l 20 -20 l 20 0
+	" stroke="#000" stroke-width="2" />
+	<path d="
+		M 160 40 l 0 -15 a 5 5 0 0 1 5 -5 l 170 0 a 5 5 0 0 1 5 5 l 0 15 l 5 -5 m -5 5 l -5 -5
+		M 280 90 l 0 -25 a 5 5 0 0 1 5 -5 l 15 0 l -5 -5 m 5 5 l -5 5
+		M 60 150 l -15 0 a 5 5 0 0 1 -5 -5 l 0 -80 a 5 5 0 0 1 5 -5 l 75 0 l -5 -5 m 5 5 l -5 5
+		M 240 110 l -15 0 a 5 5 0 0 0 -10 0 l -50 0 a 5 5 0 0 0 -10 0 l -50 0 a 5 5 0 0 0 -5 5 l 0 15 l 5 -5 m -5 5 l -5 -5
+		M 360 160 l 0 -45 a 5 5 0 0 0 -5 -5 l -10 0 a 5 5 0 0 0 -10 0 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 200 60 l 15 0 a 5 5 0 0 1 5 5 l 0 150 a 5 5 0 0 1 -5 5 l -10 0 a 5 5 0 0 0 -10 0 l -10 0 a 5 5 0 0 0 -10 0 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 120 200 l 0 -15 a 5 5 0 0 1 5 -5 l 50 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 0 5 -5 l 0 -20 a 5 5 0 0 1 5 -5 l 30 0 a 5 5 0 0 0 5 -5 l 0 -15 l 5 5 m -5 -5 l -5 5
+		M 220 250 l -15 0 a 5 5 0 0 1 -5 -5 l 0 -110 a 5 5 0 0 0 -5 -5 l -30 0 a 5 5 0 0 1 -5 -5 l 0 -45 l 5 5 m -5 -5 l -5 5
+		M 260 230 l 0 -45 a 5 5 0 0 1 5 -5 l 30 0 a 5 5 0 0 1 10 0 l 15 0 l -5 -5 m 5 5 l -5 5
+		M 320 280 l 0 -25 a 5 5 0 0 0 -5 -5 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 360 200 l 0 55 a 5 5 0 0 0 5 5 l 10 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 1 5 5 l 0 60 a 5 5 0 0 1 -5 5 l -30 0 a 5 5 0 0 0 -5 5 l 0 15 l -5 -5 m 5 5 l 5 -5
+		M 340 80 l 0 55 a 5 5 0 0 1 -5 5 l -30 0 a 5 5 0 0 0 -5 5 l 0 70 a 5 5 0 0 0 5 5 l 50 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 1 5 5 l 0 70 a 5 5 0 0 1 -5 5 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 140 150 l 35 0 a 5 5 0 0 1 5 5 l 0 150 a 5 5 0 0 0 5 5 l 10 0 a 5 5 0 0 1 10 0 l 30 0 a 5 5 0 0 0 5 -5 a 5 5 0 0 1 5 -5 l 35 0 l -5 -5 m 5 5 l -5 5
+		M 380 60 l 35 0 a 5 5 0 0 1 5 5 l 0 300 a 5 5 0 0 1 -5 5 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 80 220 l -15 0 a 5 5 0 0 0 -5 5 l 0 20 a 5 5 0 0 0 5 5 l 20 0 a 5 5 0 0 1 5 5 l 0 15 l -5 -5 m 5 5 l 5 -5
+		M 200 330 l 0 -35 a 5 5 0 0 1 5 -5 l 50 0 a 5 5 0 0 0 5 -5 l 0 -15 l 5 5 m -5 -5 l -5 5
+		M 380 460 l 35 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 0 5 -5 l 0 -270 a 5 5 0 0 0 -5 -5 l -10 0 a 5 5 0 0 0 -10 0 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 320 370 l -35 0 a 5 5 0 0 0 -10 0 l -10 0 a 5 5 0 0 0 -10 0 l -10 0 a 5 5 0 0 0 -5 5 l 0 10 a 5 5 0 0 1 -5 5 l -30 0 a 5 5 0 0 0 -10 0 l -30 0 a 5 5 0 0 0 -10 0 l -10 0 a 5 5 0 0 1 -5 -5 l 0 -50 a 5 5 0 0 1 5 -5 a 5 5 0 0 0 5 -5 l 0 -30 a 5 5 0 0 0 -5 -5 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 60 510 l -35 0 a 5 5 0 0 1 -5 -5 l 0 -310 a 5 5 0 0 1 5 -5 l 70 0 a 5 5 0 0 0 5 -5 l 0 -15 l 5 5 m -5 -5 l -5 5
+		M 90 310 l 0 15 a 5 5 0 0 1 -5 5 l -10 0 a 5 5 0 0 0 -5 5 l 0 90 a 5 5 0 0 0 5 5 l 20 0 a 5 5 0 0 1 10 0 l 15 0 l -5 -5 m 5 5 l -5 5
+		M 320 320 l 0 15 a 5 5 0 0 1 -5 5 l -30 0 a 5 5 0 0 0 -5 5 l 0 70 a 5 5 0 0 0 5 5 l 50 0 a 5 5 0 0 1 5 5 l 0 15 l -5 -5 m 5 5 l 5 -5
+		M 240 350 l 15 0 a 5 5 0 0 1 5 5 l 0 100 a 5 5 0 0 0 5 5 l 35 0 l -5 -5 m 5 5 l -5 5
+		M 160 410 l 0 -35 a 5 5 0 0 0 -5 -5 l -10 0 a 5 5 0 0 0 -10 0 l -10 0 a 5 5 0 0 1 -5 -5 l 0 -50 a 5 5 0 0 1 5 -5 l 20 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 0 5 -5 l 0 -40 a 5 5 0 0 0 -5 -5 l -40 0 a 5 5 0 0 1 -5 -5 l 0 -15 l 5 5 m -5 -5 l -5 5
+		M 100 490 l 0 -135 a 5 5 0 0 1 5 -5 l 10 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 1 10 0 l 15 0 l -5 -5 m 5 5 l -5 5
+		M 50 290 l -15 0 a 5 5 0 0 0 -5 5 l 0 170 a 5 5 0 0 0 5 5 l 60 0 a 5 5 0 0 1 10 0 l 50 0 a 5 5 0 0 1 10 0 l 10 0 a 5 5 0 0 1 5 5 l 0 30 a 5 5 0 0 1 -5 5 l -10 0 a 5 5 0 0 0 -10 0 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 180 540 l -15 0 a 5 5 0 0 0 -10 0 l -10 0 a 5 5 0 0 0 -5 5 l 0 10 a 5 5 0 0 1 -5 5 l -30 0 a 5 5 0 0 1 -5 -5 l 0 -25 l 5 5 m -5 -5 l -5 5
+		M 160 450 l 0 135 a 5 5 0 0 0 5 5 l 190 0 a 5 5 0 0 0 5 -5 l 0 -25 l 5 5 m -5 -5 l -5 5
+		M 340 480 l 0 25 a 5 5 0 0 1 -5 5 l -40 0 a 5 5 0 0 0 -5 5 l 0 60 a 5 5 0 0 1 -5 5 l -60 0 a 5 5 0 0 1 -5 -5 l 0 -15 l 5 5 m -5 -5 l -5 5
+		M 360 390 l 0 15 a 5 5 0 0 0 5 5 l 50 0 a 5 5 0 0 1 5 5 l 0 120 a 5 5 0 0 1 -5 5 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 360 520 l 0 -15 a 5 5 0 0 0 -5 -5 l -10 0 a 5 5 0 0 0 -10 0 l -90 0 a 5 5 0 0 1 -5 -5 l 0 -80 a 5 5 0 0 0 -5 -5 l -30 0 a 5 5 0 0 1 -5 -5 l 0 -35 l 5 5 m -5 -5 l -5 5
+		M 220 520 l 0 -85 a 5 5 0 0 0 -5 -5 l -15 0 l 5 5 m -5 -5 l 5 -5
+		M 320 540 l -25 0 a 5 5 0 0 0 -10 0 l -25 0 l 5 5 m -5 -5 l 5 -5
+	" stroke="#000" stroke-width="0.75" />
+
+
+	<text x="162" y="38" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="202" y="58" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="342" y="88" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="382" y="58" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="282" y="88" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="238" y="118" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="142" y="148" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="58" y="158" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="362" y="158" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="362" y="208" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="122" y="198" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="78" y="218" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="218" y="258" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="262" y="228" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="92" y="318" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="48" y="288" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="322" y="278" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="322" y="328" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="202" y="328" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="242" y="348" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="362" y="398" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="318" y="378" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="162" y="408" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="162" y="458" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="342" y="488" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="382" y="468" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="58" y="518" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="102" y="488" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="222" y="518" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="178" y="548" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	<text x="318" y="548" text-anchor="end" font-family="helvetica, sans-serif" font-size="8" fill="#000">YES</text>
+	<text x="362" y="518" font-family="helvetica, sans-serif" font-size="8" fill="#000">NO</text>
+	
+	<text x="160" y="58" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a</text>
+	<text x="160" y="68" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">DVI-D port?</text>
+	<text x="340" y="58" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a lit</text>
+	<text x="340" y="68" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">SIG indicator?</text>
+	<text x="280" y="108" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there an</text>
+	<text x="280" y="118" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">RJ-45 port?</text>
+	<text x="100" y="148" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Does the serial #</text>
+	<text x="100" y="158" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">contain a vowel?</text>
+	<text x="360" y="178" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a lit</text>
+	<text x="360" y="188" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">IND indicator?</text>
+	<text x="120" y="218" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a</text>
+	<text x="120" y="228" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">PS/2 port?</text>
+	<text x="260" y="248" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there an unlit</text>
+	<text x="260" y="258" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">FRQ indicator?</text>
+	<text x="90" y="288" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a</text>
+	<text x="90" y="298" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">parallel port?</text>
+	<text x="320" y="298" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Are there three</text>
+	<text x="320" y="308" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">or more batteries?</text>
+	<text x="200" y="348" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Are there two or</text>
+	<text x="200" y="358" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">more AA batteries?</text>
+	<text x="360" y="368" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is the last digit of</text>
+	<text x="360" y="378" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">the serial # odd?</text>
+	<text x="160" y="428" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a lit</text>
+	<text x="160" y="438" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">MSA indicator?</text>
+	<text x="340" y="458" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there an unlit</text>
+	<text x="340" y="468" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">BOB indicator?</text>
+	<text x="100" y="508" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a lit</text>
+	<text x="100" y="518" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">SND indicator?</text>
+	<text x="220" y="538" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there a</text>
+	<text x="220" y="548" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">stereo RCA port?</text>
+	<text x="360" y="538" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">Is there an unlit</text>
+	<text x="360" y="548" text-anchor="middle" font-family="helvetica, sans-serif" font-size="8" fill="#000">CAR indicator?</text>
+</svg>

@@ -215,9 +215,9 @@ td, th {
 
 .flowchart {
     width: 39em;
-    margin-top: -1.2em;
+    margin-top: -2.2em;
     margin-left: 1.2em;
-    margin-bottom: 1.2em;
+    margin-bottom: -1.2em;
 }
 
 .diagram-label {

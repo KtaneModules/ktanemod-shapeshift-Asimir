@@ -67,8 +67,8 @@ public class ShapeShiftModule : MonoBehaviour
 		foreach( string Value in Response ) {
 			Dictionary< string,int > batteryInfo = JsonConvert.DeserializeObject <Dictionary<string,int>> (Value);
 			batteryCount += batteryInfo ["numbatteries"];
-			if (batteryInfo ["numbatteries"] == 2) {
-				batteryAACount += 2;
+			if (batteryInfo ["numbatteries"] >= 2 && batteryInfo ["numbatteries"] <= 4) {
+				batteryAACount += batteryInfo ["numbatteries"];
 			}
 		}
 
